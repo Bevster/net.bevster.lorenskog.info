@@ -11,7 +11,7 @@ import javax.swing.*;
 import net.bevster.lorenskog.info.read.*;
 import net.bevster.lorenskog.info.sql.Mysql;
 
-//Hovedklassen
+//Festen
 public class Hoved extends JPanel {
 	static BufferedImage image;
 	static Reading r = new Reading();
@@ -41,8 +41,8 @@ public class Hoved extends JPanel {
 		f.setLocation(200, 200);
 		f.setVisible(true);
 
-	//	System.out.println(r.getTable());
-		
+		// System.out.println(r.getTable());
+
 		sql = new Mysql();
 
 	}
