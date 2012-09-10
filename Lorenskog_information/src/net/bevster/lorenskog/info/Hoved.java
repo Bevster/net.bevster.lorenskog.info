@@ -21,7 +21,7 @@ public class Hoved extends JPanel {
 	static Hoved contentPane;
 
 	public static final String STUDENT_ID = "E9726CD9-4FE2-4F35-B009-744116253817";
-	public static final int UKE = 39;
+	public static final int UKE = 37;
 
 	public static int frameX = 977;
 	public static int frameY = 750;
