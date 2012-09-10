@@ -36,7 +36,7 @@ public class Reading {
 		if (doc.title() != null) {
 			return doc.title();
 		} else {
-			return "RESERVE";
+			return "RESERVE"; 
 		}
 
 	}
